@@ -113,6 +113,4 @@
 .is-ready {
     cursor: url(./cursor.png), auto;
 }
-.inner {
-    cursor: url(./cursor.png), auto;
-}
+
